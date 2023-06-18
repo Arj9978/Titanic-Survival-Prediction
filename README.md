@@ -20,15 +20,21 @@ To get started with this repository, follow the steps below:
 
 1. Clone the Repository: Clone this repository to your local machine using the command:
 
+```bash
 git clone https://github.com/your-username/titanic-survival-prediction.git
+```
 
 2. Install Dependencies: Navigate to the project directory and install the required dependencies using the following command:
 
+```bash
 pip install -r requirements.txt
+```
 
 3. Launch the Application: Run the Streamlit application using the following command:
 
+```bash
 streamlit run app.py
+```
 
 4. Access the Application: Once the application is running, open your web browser and navigate to http://localhost:8501 to access the Streamlit web interface.
 
