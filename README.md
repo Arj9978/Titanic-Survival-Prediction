@@ -42,4 +42,4 @@ streamlit run app.py
 Contributions to this repository are welcome! If you have any ideas, suggestions, or bug fixes, please feel free to open an issue or submit a pull request. Let's collaborate to improve this Titanic survival prediction application and make it even more accurate and informative!
 
 ## URL of Web Application
-https://arj9978-streamlit-titanic-app-98gaub.streamlit.app/
+[https://titanic-survival-prediction-by-javid.streamlit.app/](https://titanic-survival-prediction-by-javid.streamlit.app/)
